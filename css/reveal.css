@@ -1877,4 +1877,10 @@ body {
 	visibility: hidden;
 }
 
+/** Juha omat **/
+
+.reveal img.fix { max-height: 8em; position: absolute;}
+.reveal img.top { top: -9em; }
+.reveal img.left { left: 0; }
+.reveal img.right { right: 0; }
 
