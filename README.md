@@ -1,3 +1,3 @@
-## Koodikoulu Slides
+## Presentation Slides
 
-My slideset for Koodikoulu. Viewable at http://raimohanska.github.io/koodikoulu-slides
+My slides for swedish presentation. Viewable at http://dolmio.github.io/koodikoulu-slides
